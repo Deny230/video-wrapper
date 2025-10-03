@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Video Boss</title>
+
+<!-- Twitter Card & Open Graph -->
+<meta name="twitter:card" content="player">
+<meta name="twitter:player" content="https://example.com/page.html">
+<meta name="twitter:player:width" content="640">
+<meta name="twitter:player:height" content="360">
+<meta name="twitter:player:stream" content="http://136.175.10.10:8080/musicclips/fullmp4best/6ix9ine_Tutu.mp4">
+
+<meta property="og:video" content="http://136.175.10.10:8080/musicclips/fullmp4best/6ix9ine_Tutu.mp4">
+<meta property="og:video:type" content="video/mp4">
+
+<style>
+  body { text-align:center; font-family: Arial, sans-serif; background-color:#f5f5f5; padding:20px; }
+  video { max-width:100%; height:auto; border-radius:10px; }
+  .btn { display:inline-block; margin-top:20px; padding:15px 30px; background-color:#ff6600; color:white; text-decoration:none; font-size:18px; border-radius:5px; }
+  .btn:hover { background-color:#ff8533; }
+</style>
+
+</head>
+<body>
+
+<video autoplay muted loop playsinline>
+  <source src="http://136.175.10.10:8080/musicclips/fullmp4best/6ix9ine_Tutu.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- Tombol Smart Link Adsterra Boss asli -->
+<a href="https://perfectionwatching.com/nsmf0tc7?key=133907f79469c58353be27736aa5311a" target="_blank" class="btn">Klik untuk Lanjut</a>
+
+</body>
+</html>
